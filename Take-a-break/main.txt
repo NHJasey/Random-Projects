@@ -1,0 +1,1 @@
+Every two hours, this will open the default browser and play a video reminding the user to take a break from work.
