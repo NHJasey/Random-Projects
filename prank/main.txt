@@ -1,0 +1,3 @@
+The object with this project was to create a hidden message or prank using photos of the alphabet stored in a certain folder.
+The pictures' names would have numbers that would make the photos of each letter appear out of order, obscuring any message.
+This program would then un-scramble the message by removing these numbers and renaming the files to show the message in the proper order!
