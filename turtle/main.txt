@@ -1,0 +1,2 @@
+This is basically a simple exercise getting familiar with turtle in Python.  
+I drew a circle using squares and a regular circle.
